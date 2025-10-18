@@ -42,4 +42,4 @@ const withLayoutBasic = (Component: any) => {
   };
 };
 
-export default withLayoutBasic;  // 21:12 mins
+export default withLayoutBasic;  
